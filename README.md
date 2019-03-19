@@ -3,6 +3,8 @@
 -Que es cracker?
 Cracker es un script de "brute-force = fuerza bruta dirigida hacia los perfiles de facebook esta muy completa tambien contiene un script de brute force para instagram con proxys y/e diccionario es muy util en ciertos casos mis preferidos son los de bb-fb = brute force de faceook les recomiendo el 3ro + el 4to con un poco de habilidad haran magia >
 
+#INSTALACION
+
 
 
 
