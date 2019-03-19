@@ -1,4 +1,15 @@
-> Fill in all requirements *before* submitting an issue.
+#cracker 0.0.2
+
+-Que es cracker?
+Cracker es un script de "brute-force = fuerza bruta dirigida hacia los perfiles de facebook esta muy completa tambien contiene un script de brute force para instagram con proxys y/e diccionario es muy util en siertos casos mis preferidos son los de bb-fb = brute force de faceook les recomiendo el 3ro + el 4to con un poco de habilidad haran magia >
+
+
+
+
+
+
+
+Fill in all requirements *before* submitting an issue.
 > Do not delete any of the template, fill all of it in; even if you think it doesn't apply to your issue.
 > If you fail to follow these simple instructions, we will close the ticket.
 
