@@ -53,27 +53,10 @@ https://m.facebook.com/groups/305357633225806?group_view_referrer=pages_groups_c
 
 ############################################
 
-# Hosting
-- [ ] Are you hosting the bot on a VPS or other Cloud hosting?
-- [ ] If so; have you tried running the code on your local machine?
-
-#### Select one:
-- [ ] Bug
-- [ ] Feature Request
-- [ ] Technical Help
-- [ ] Other
-
 ### Operating System? (include version)
-MAC / Windows / Linux / Android
+MAC / Windows / Linux / Android,Termux /
 
 ## Python Version?
 2 / 3
 
-## Description
-
-Type the description of your issue here.
-
-```
-Include the contents of the error.log here (if applicable).
-```
-##credits: "Black Mask" #"SystemMCPA"
+## Credits: "Black Mask" #"SystemMCPA"
