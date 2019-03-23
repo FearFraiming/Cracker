@@ -1,7 +1,7 @@
 #cracker 0.0.2
 
 -Que es cracker?
-Cracker es un script de "brute-force = fuerza bruta dirigida hacia los perfiles de facebook esta muy completa tambien contiene un script de brute force para instagram con proxys y/e diccionario es muy util en ciertos casos mis preferidos son los de bb-fb = brute force de faceook les recomiendo el 3ro + el 4to con un poco de habilidad haran magia >
+Cracker es un script de "brute-force = fuerza bruta dirigida hacia los perfiles de facebook esta muy completa tambien contiene un script de brute force para instagram con proxys y/e diccionario es muy util en ciertos casos mis preferidos son los de bb-fb = brute force de facebook les recomiendo el 3ro + el 4to con un poco de habilidad haran magia >
 
 #ACTUALIZACION DE PACKETES TERMUX
 -apt update&& pkg upgrade -y
@@ -33,8 +33,12 @@ cd Cracker
 -hahah que pendejo eres si crees que te voy a enseñar a ocupar Cracker xd
 
 
+#Unete a nuestra comunidad de fb 
+-grupo de facebook 
+https://m.facebook.com/groups/305357633225806?group_view_referrer=pages_groups_card&page_id=433000890559624
 
-
+#Nuestra pagina
+-Ssociety.ga >
 
 
 # Hosting
