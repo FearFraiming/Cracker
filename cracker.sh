@@ -1,12 +1,12 @@
 #//Script Kiddies//
-#//Arturo Caballero//
+#//CIA//
 kiddies='\e[1;32m'
 kiddes='\e[1;33m'
 clear
 echo ""
 figlet "Cracker" | lolcat
 echo -e $kiddies "==================================="
-echo " From : Arturo Caballero" | lolcat
+echo " From : CIA BY : Ssociery.ga" | lolcat
 echo -e
 echo " System  MCPA" | lolcat
 echo -e $kiddies "==================================="
