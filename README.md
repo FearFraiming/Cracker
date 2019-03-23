@@ -49,7 +49,7 @@ https://m.facebook.com/groups/305357633225806?group_view_referrer=pages_groups_c
 
 #Nuestra pagina
 
--Ssociety.ga >
+- https://ssociety.ga >
 
 ############################################
 
