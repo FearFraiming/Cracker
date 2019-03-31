@@ -6,7 +6,7 @@ clear
 echo ""
 figlet "Cracker" | lolcat
 echo -e $kiddies "==================================="
-echo " From : CIA BY : Ssociery.ga" | lolcat
+echo " From : CIA : BY : SSOCIETY" | lolcat
 echo -e
 echo " System  MCPA" | lolcat
 echo -e $kiddies "==================================="
