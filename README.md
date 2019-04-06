@@ -9,7 +9,7 @@ Cracker es un script de "brute-force = fuerza bruta dirigida hacia los perfiles 
 
 -pkg install python python2 git figlet ruby -y;gem install lolcat;pip2 install mechanize -y
 
-*Ya instalamos los requisitos de cracker OJO: NO vuelva a clonar el script si ya lo tiene, salte hasta donde dice abrir repositorio o script.
+*Ya instalamos los requisitos de cracker OJO: NO vuelva a clonar el script si ya lo tiene, salte hasta donde dice abrir script y instalacion de request.
 
 git clone https://github.com/FearFraiming/Cracker
 
