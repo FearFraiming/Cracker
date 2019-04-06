@@ -13,11 +13,11 @@ Cracker es un script de "brute-force = fuerza bruta dirigida hacia los perfiles 
 
 git clone https://github.com/FearFraiming/Cracker
 
-ABRIR REPOSITORIO O SCRIPT
+#ABRIR REPOSITORIO O SCRIPT
 
 cd Cracker;pip2 install -r requirements.txt
 
-EJECUTAMOS EL SCRIPT
+#EJECUCION DEL SCRIPT
 
 bash cracker.sh
 
